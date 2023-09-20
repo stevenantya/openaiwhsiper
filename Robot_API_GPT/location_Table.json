@@ -1,0 +1,19 @@
+{
+    "modificationtype": "CREATE",
+    "skillset": "GOTO",
+    "skillsetparam": {
+        "type": "pose",
+        "precision": "high",
+        "tolerance": 0.1,
+        "retries": 2
+    },
+    "goal": {
+        "mapverid": "db94c1c9-2eaa-4e43-9ead-95eca9a12947",
+        "positionname": "",
+        "x": -5.171,
+        "y": 2.412,
+        "theta": 1.541
+    },
+    "abort": false,
+    "jobid": "7cf7d33f-d500-4e24-b81e-6735c6713b9d"
+}
